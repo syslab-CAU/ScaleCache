@@ -5,7 +5,6 @@ This repository contains the artifact for reproducing our EuroSys '24 paper "Sca
 # Table of Contents
 * [Overview](#overview)
 * [Setup](#setup)
-* [Authors](#authors)
 
 # Overview 
 
@@ -109,23 +108,3 @@ $ ./compile.sh
 $ cd workloads/YCSB_memcached
 $ ./compile.sh
 ```
-
-# Authors
-
-Kiet Tuan Pham (Chung-Ang University)
-
-Seokjoo Cho (Chung-Ang University)
-
-Sangjin Lee (Chung-Ang University)
-
-Lan Anh Nguyen (Chung-Ang University)
-
-Hyeongi Yeo (Chung-Ang University)
-
-Ipoom Jeong (University of Illinois Urbana-Champaign)
-
-Sungjin Lee (DGIST)
-
-Nam Sung Kim (University of Illinois Urbana-Champaign)
-
-Yongseok Son (Chung-Ang University) 
